@@ -1,0 +1,63 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Jul 29 16:27:45 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22427 51793 482000 0) (desktop . "206") "BIBIOX@ADDUDAL032706" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Courier New-normal-normal-normal-mono-13-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#252525") (background-color . "#F0F0F0") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (fullscreen . maximized) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (horizontal-scroll-bars . t) (display-type . color) (background-mode . light) (cursor-color . "#080808") (environment) (powerline-cache) (frameset--id . "015E-4D80-DBD8-8D42") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (maximized) (visibility . t) (height . 44) (width . 168) (left + -8) (top + -8)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 64) (min-pixel-width . 80) (min-pixel-height-ignore . 32) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 16) (min-pixel-width-safe . 16)) leaf (pixel-width . 1366) (pixel-height . 690) (total-width . 170) (total-height . 43) (normal-height . 1.0) (normal-width . 1.0) (buffer ".emacs<Bibiox>" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 167) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("powerline" "power" "powerline" "org" ".el" "or" "powerlinei" "power" "powerline" "smart-mo" "smart-lin" "smart-m" ":R251" "ep11" "tes" "jul"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("c:/Users/Bibiox/.emacs" "c:/Users/Bibiox/Documents/wrapfig.sty" "~/.emacs" "c:/Users/Bibiox/Documents/org_notes/Log_Analysis_Project.org" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs" "c:/Users/Bibiox/Documents/ESS/Test1.sas" "c:/Users/Bibiox/Documents/R_Mode/R_Test1.org" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs" "~/.emacs" "c:/Users/Bibiox/Documents/org_notes/Personal.org" "c:/Users/Bibiox/Documents/org_notes/EP11_July_Sprint.org" "~/" "c:/" "~/" "c:/Users/Bibiox/AppData/Roaming/.emacs.elc" "~/.emacs" "c:/Users/Bibiox/Documents/org_notes/Megans_ODR_SCRIPT.org" "~/.emacs" "c:/Users/Bibiox/Documents/org_notes/Megans_ODR_SCRIPT.org" "c:/Users/Bibiox/Documents/org_notes/TABLE_TEST.CSV" "c:/Users/Bibiox/Documents/org_notes/Experimental_Notes.org" "c:/Users/Bibiox/Documents/org_notes/Column_View.org" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs" "c:/Users/Bibiox/Documents/org_notes/EP11_July_Sprint.org" "c:/Users/Bibiox/Documents/org_notes/" "c:/Users/Bibiox/Documents/org_notes/EP11_July_Sprint.org" "c:/Users/Bibiox/Documents/org_notes/EP10_July_Sprint.org" "c:/Users/Bibiox/Documents/org_notes/EP11_July_Sprint.org" "c:/Users/Bibiox/Documents/org_notes/EP10_July_Sprint.org" "c:/Users/Bibiox/Documents/org_notes/july" "c:/Users/Bibiox/Documents/org_notes/" "c:/Users/Bibiox/Documents/org_notes/July_Sprint.org" "~/.emacs" "c:/Users/Bibiox/Documents/org_notes/TEST2.org" "c:/Users/Bibiox/Documents/org_notes/.#Test.org" "~/.emacs" "c:/Users/Bibiox/Documents/org_notes/Agenda.html" "c:/Users/Bibiox/Documents/org_notes/GroceryList.org" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs" "c:/python/Scripts/PythonQwt-tests" "c:/Users/Bibiox/Documents/org_notes/July_Sprint.org" "c:/Users/Bibiox/Documents/org_notes/July_Sprint.html" "c:/Users/Bibiox/Documents/org_notes/July_Sprint.org" "c:/Users/Bibiox/AppData/Roaming/.emacs" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs" "c:/Users/Bibiox/Documents/org_notes/July_Sprint.org" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs" "f:/" "c:/Users/Bibiox/Documents/org_notes/July_Sprint.org" "~/.emacs" "c:/Users/Bibiox/AppData/Roaming/.emacs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "c:/Users/Bibiox/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(linum-mode)
+  167
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "c:/Users/Bibiox/Documents/org_notes/Megans_ODR_SCRIPT.org"
+  "Megans_ODR_SCRIPT.org"
+  'org-mode
+  '(auto-fill-mode linum-mode)
+  4994
+  '(4994 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (fill-column . 100) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "c:/Users/Bibiox/AppData/Roaming/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(linum-mode)
+  325
+  '(120 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "c:/Users/Bibiox/Documents/org_notes/Personal.org"
+  "Personal.org"
+  'org-mode
+  '(auto-fill-mode linum-mode)
+  8
+  '(91 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos) (fill-column . 100) (truncate-lines . t)))
+

@@ -1,0 +1,14 @@
+python
+ls
+python
+cd..
+cd ..
+cd F:/Projects/Python
+cd python.exe
+python.exe
+cd python-2.7.10.amd64
+python.exe
+python
+pip
+sudo apt-install
+python
